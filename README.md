@@ -1,8 +1,8 @@
-# How to Group and Filter the Syncfusion Vue DropDownList Items
+# How to Group and Filter the Vue DropDownList Items of Syncfusion
 
 Get a quick overview on how to group and filter items in the Vue Dropdown List. You will learn how to group the Vue Dropdown List items as well as how to filter those items. You will also see different filter types in the Dropdown List, how to apply those filters to items, and how to ignore diacritic characters.  
 
-Documentatio Link: 
+Documentation Link: 
 https://ej2.syncfusion.com/vue/documentation/drop-down-list/grouping
 https://ej2.syncfusion.com/vue/documentation/drop-down-list/filtering
 
